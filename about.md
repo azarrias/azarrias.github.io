@@ -22,6 +22,9 @@ The intent behind this humble blog is to use it as a professional portfolio, as 
 on these topics.
 
 Some of my projects are hosted on my [Github profile](https://github.com/azarrias) and you can take a look at 
-my CV [here](https://drive.google.com/open?id=0B9Wb4mR-MKLhcVJ5RDRyNFJYd1U).
+my CV [here](https://drive.google.com/open?id=0B9Wb4mR-MKLhZFI1NC1IOFI5TjA).
+
+By the way, this blog is built on the [Hydeout](https://fongandrew.github.io/hydeout/) theme for Jekyll, made [multilingual](https://github.com/azarrias/hydeout-multilingual) 
+(notice the language selector on the sidebar). 
 
 Make yourself comfortable. I hope you enjoy your stay! ;)

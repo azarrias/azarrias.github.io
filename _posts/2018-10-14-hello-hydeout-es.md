@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Bienvenidos!
+title: ¡Bienvenidos!
 ref: welcome
 lang: es
 ---
 
 ¡Hola qué tal!
-Bienvenidos a mi blog / portfolio personal. 
+
+Bienvenidos a mi blog y portfolio personal. 
