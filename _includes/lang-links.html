@@ -1,0 +1,7 @@
+<div style="text-align: right; line-height: 2em">
+  {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+  {% for p in posts %} <a href="{{ p.url | prepend: site.baseurl }}" class="page-link {% if p.lang == page.lang %} active{% endif %}">{{ p.lang }}</a> {% endfor %}
+
+  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+  {% for p in pages %} <a href="{{ p.url | prepend: site.baseurl }}" class="page-link {% if p.lang == page.lang %} active{% endif %}">{{ p.lang }}</a> {% endfor %}
+</div>

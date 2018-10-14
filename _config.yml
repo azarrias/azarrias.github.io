@@ -1,0 +1,70 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Setup
+title:
+  en: Adolfo Zarrias
+  es: Adolfo Zarrias
+tagline:
+  en: 'Blog + Portfolio'
+  es: 'Blog + Portfolio'
+description:
+  en: 'A blog on games, film, media, programming and other stuff...'
+  es: 'Mi blog sobre juegos, cine, media, programación y otras cosas...'
+index:
+  home:
+    en: 'Home'
+    es: 'Inicio'
+  url:
+    en: 
+    es: 'index-es.html'
+url:              https://azarrias.github.io
+baseurl:          '/'
+                  # the optional subpath of your site, e.g. "/blog"
+                  # NB: This applies to all pages in your Jekyll site.
+                  # If you want to move just the blog index pages but keep
+                  # other pages at root, see the paginate_path and
+                  # sidebar_blog_link below.
+tags_page_url:
+  en: 'tags.html'
+  es: 'tags-es.html'
+search_page_url:
+  en: 'search.html'
+  es: 'search-es.html'
+feed_page_url:
+  en: 'feed.xml'
+  es: 'feed-es.xml'
+                  
+# Multilingual config
+default_lang: en
+languages: ["en", "es"]
+
+author:
+  name:           'Adolfo Zarrias'
+  url:            https://twitter.com/adolfozt
+
+#paginate:         5
+# paginate_path:    '/page:num'
+                    # Or '/blog/page:num' if you want to move your index pages
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+# Sidebar link settings
+sidebar_home_link:  true
+# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+                                # page. If you change your paginate_path,
+                                # set this to the root of the paginate_path
+                                # to enable a separate blog link.
+                                
+# Github setting
+github:
+  repo:             https://github.com/azarrias/azarrias.github.io
+version:            1.0.0
+
+# For Google Analytics support, define a google_analytics 
+# variable with your property ID in your config file
+google_analytics: UA-90175844-3
