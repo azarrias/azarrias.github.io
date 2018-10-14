@@ -6,9 +6,22 @@ lang: es
 sidebar_link: true
 ---
 
-<p class="message">
-  Hola! Esta página es un ejemplo. Puedes personalizarla
-  para tu propio uso según te convenga. Vamos allá!
-</p>
+¡Hola!
 
-Para que las páginas aparezcan en la barra lateral, añade `sidebar_link: true` a la sección de metadatos de la cabecera.
+Bienvenido, visitante.
+Me llamo Adolfo Zarrias y soy un ingeniero del software de Barcelona (España), con gran experiencia como programador, analista,
+líder de equipo y gestion de proyectos.
+
+Mis estudios:
+* Máster en Diseño y Creación de Videojuegos @ Universitat Politècnica de Catalunya (2017)
+* Master Universitario en Dirección de Proyectos @ La Salle (2013)
+* Ingeniería Superior en Informática @ Universitat Autònoma de Barcelona (2009)
+
+Mis principales intereses son los videojuegos, la música, el cine, las series, el deporte y la programación en general.
+La intención detrás de este humilde blog es utilizarlo como portfolio profesional, así como para llevar un control de lo que
+escribo sobre estos temas.
+
+Algunos de mis proyectos están alojados en mi [perfil de Github](https://github.com/azarrias) y puedes echar un vistazo a
+mi CV [aquí](https://drive.google.com/open?id=0B9Wb4mR-MKLhcVJ5RDRyNFJYd1U).
+
+Ponte cómodo. ¡Espero que disfrutes de tu estancia! ;)
