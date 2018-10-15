@@ -63,7 +63,6 @@ sidebar_home_link:  true
 # Github setting
 github:
   repo:             https://github.com/azarrias/azarrias.github.io
-version:            1.0.0
 
 # For Google Analytics support, define a google_analytics 
 # variable with your property ID in your config file
