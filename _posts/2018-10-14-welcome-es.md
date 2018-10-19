@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¡Bienvenido!
-excerpt_separator: <!--más-->
+excerpt_separator: <!--more-->
 ref: welcome
 lang: es
 ---
@@ -13,7 +13,7 @@ Bienvenido a mi blog personal (y portfolio!).
 Este blog está hecho a partir de [Hydeout](https://fongandrew.github.io/hydeout/), un tema para Jekyll que he adaptado para [uso multilingüe](https://github.com/azarrias/hydeout-multilingual) 
 (observa el selector de lenguaje en la barra lateral). 
 
-<!--más-->
+<!--more-->
 
 Es realmente sencillo montar un blog utilizando [Jekyll en combinación con Github Pages](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/).
 Supongo que ninguno de ellos necesitan presentación, pero Jekyll es un generador de sitios estático cada vez más popular, mientras que GitHub Pages es un estupendo servicio de alojamiento web ofrecido por GitHub.
