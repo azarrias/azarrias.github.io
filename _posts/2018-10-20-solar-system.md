@@ -10,16 +10,18 @@ ref: solar-system
 lang: en
 ---
 
-This is one of the first projects that I did with Unity around 2016.
+This is one of the first projects that I did with Unity around 2016, a solar system simulation of sorts.
 It was an exercise for the Michigan State University courses on Game Development.
+When you click on a planet on the main scene or on the minimap, the main camera will follow it.
+
+<!--more-->
+
 Through this project I learned about some of the game engine's topics, such as: 
 * Creating materials
 * Working with an additional camera to create a minimap
 * Basic audio topics
 * Basic lighting
 * Make camera follow game objects
-
-<!--more-->
 
 I didn't try to make this project realistic in any way:
 Orbits would be difficult to model accurately, and we would see only a humongous sun if
