@@ -70,3 +70,7 @@ github:
 # For Google Analytics support, define a google_analytics 
 # variable with your property ID in your config file
 google_analytics: UA-90175844-3
+
+# For Disqus support
+disqus:
+  shortname: www-adolfozarrias-com
