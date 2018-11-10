@@ -42,6 +42,12 @@ languages: ["en", "es"]
 excerpt_separator_literal:
   en: 'More &hellip;'
   es: 'Más &hellip;'
+comments_literal:
+  en: 'Comments'
+  es: 'Comentarios'
+load_disqus_comments:
+  en: 'Load Comments'
+  es: 'Cargar Comentarios'
 
 author:
   name:           'Adolfo Zarrias'
