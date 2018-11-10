@@ -17,7 +17,7 @@ Este proyecto fue una entrega de los cursos de la Universidad del Estado de Mich
 <!--more-->
 
 Durante este proyecto aprendí sobre algunos conceptos del motor de videojuegos, tales como:
-* Unilizar los paquetes de standard assets
+* Utilizar los paquetes de standard assets
 * Física
 * Conceptos básicos de interfaz de usuario
 * Trail renderers
