@@ -13,7 +13,7 @@
   *  https://disqus.com/admin/universalcode/#configuration-variables
   */
   var disqus_config = function () {
-    this.language = "{{ page.lang }}";
+    this.language = '{% if page.lang == "es" %}es_ES{% else %}{{ page.lang }}{% endif %}';
     this.page.url = "{{ page.url | absolute_url }}";
     this.page.identifier = "{{ page.guid or page.id }}" ||
                            "{{ page.url | absolute_url }}";
