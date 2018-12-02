@@ -6,6 +6,8 @@ categories:
   - Projects
 tags:
   - Unity
+  - Video games
+  - Michigan State University
 ref: roller-madness
 lang: en
 ---
