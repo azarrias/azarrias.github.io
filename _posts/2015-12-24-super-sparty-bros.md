@@ -13,10 +13,11 @@ lang: en
 ---
 
 Super Sparty Bros is a demo of a 2D platform game, where you need to collect a "victory" item in order to beat a certain level.
-I did this as an assignment for the Michigan State University courses on Game Development.
-This was the first time that I developed a cross-platform project for Unity. 
 
 <!--more-->
+
+I did this as an assignment for the Michigan State University courses on Game Development.
+This was the first time that I developed a cross-platform project for Unity. 
 
 Through this project I learned about some of the game engine's topics, such as: 
 * Working with 2D sprites and physics
