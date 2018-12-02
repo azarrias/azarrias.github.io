@@ -11,11 +11,11 @@ ref: solar-system
 lang: es
 ---
 
-Este es uno de los primeros proyectos que llevé a cabo con Unity alrededor de 2016, una especie de simulación del sistema solar.
-Fue un ejercicio de los cursos de la Universidad del Estado de Michigan que tomé sobre Desarrollo de Juegos.
-Al hacer click en un planeta ya sea en la escena principal o en el mini-mapa, este es seguido por la cámara principal.
+Este es uno de los primeros proyectos que llevé a cabo con Unity, una especie de simulación del sistema solar.
 
 <!--more-->
+
+Fue un ejercicio de los cursos de la Universidad del Estado de Michigan que tomé sobre Desarrollo de Juegos.
 
 Durante este proyecto aprendí sobre algunos conceptos del motor de videojuegos, tales como:
 * Crear materiales
@@ -30,4 +30,4 @@ las proporciones y distancias entre los diferentes planetas se acercasen a la re
 
 Es posible jugar con una build WebGL de este proyecto [aquí](/assets/webgl/solar-system).
 
-Haz click en cualquiera de los planetas para que la cámara principal siga su trayectoria.
+Haz click en cualquiera de los planetas, ya sea en la escena principal o en el mini-mapa, para que la cámara principal siga su trayectoria.

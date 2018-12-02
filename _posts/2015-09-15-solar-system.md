@@ -11,11 +11,11 @@ ref: solar-system
 lang: en
 ---
 
-This is one of the first projects that I did with Unity around 2016, a solar system simulation of sorts.
-It was an exercise for the Michigan State University courses on Game Development.
-When you click on a planet on the main scene or on the minimap, the main camera will follow it.
+This is one of the first projects that I did with Unity, a solar system simulation of sorts.
 
 <!--more-->
+
+It was an exercise for the Michigan State University courses on Game Development.
 
 Through this project I learned about some of the game engine's topics, such as: 
 * Creating materials
@@ -30,4 +30,4 @@ the proportions and distances between the different planets were close to realit
 
 It is possible to play with a WebGL build of this project [here](/assets/webgl/solar-system).
 
-You can click on any planet for the camera to follow its trajectory.
+You can click on any planet, on the main scene or on the minimap, for the camera to follow its trajectory.
