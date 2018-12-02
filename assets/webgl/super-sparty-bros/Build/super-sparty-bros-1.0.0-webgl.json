@@ -1,0 +1,13 @@
+{
+"companyName": "waxtadpolegames",
+"productName": "superspartybros",
+"dataUrl": "super-sparty-bros-1.0.0-webgl.data.unityweb",
+"asmCodeUrl": "super-sparty-bros-1.0.0-webgl.asm.code.unityweb",
+"asmMemoryUrl": "super-sparty-bros-1.0.0-webgl.asm.memory.unityweb",
+"asmFrameworkUrl": "super-sparty-bros-1.0.0-webgl.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
