@@ -13,9 +13,9 @@ lang: en
 
 This is one of the first projects that I did with Unity, a solar system simulation of sorts.
 
-<!--more-->
+I did it as an exercise for the Michigan State University courses on Game Development.
 
-It was an exercise for the Michigan State University courses on Game Development.
+<!--more-->
 
 Through this project I learned about some of the game engine's topics, such as: 
 * Creating materials
@@ -30,4 +30,5 @@ the proportions and distances between the different planets were close to realit
 
 It is possible to play with a WebGL build of this project [here](/assets/webgl/solar-system).
 
+## Controls
 You can click on any planet, on the main scene or on the minimap, for the camera to follow its trajectory.
