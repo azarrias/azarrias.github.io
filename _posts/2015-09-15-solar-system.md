@@ -11,11 +11,12 @@ ref: solar-system
 lang: en
 ---
 
-This is one of the first projects that I did with Unity, a solar system simulation of sorts.
-
-I did it as an exercise for the Michigan State University courses on Game Development.
+This is probably the first project that I ever did with Unity, a solar system simulation (well, sort of!).
+Anyhow, it displays all solar system planets moving around the screen.
 
 <!--more-->
+
+I did it as an exercise for the Michigan State University courses on Game Development.
 
 Through this project I learned about some of the game engine's topics, such as: 
 * Creating materials
@@ -24,7 +25,7 @@ Through this project I learned about some of the game engine's topics, such as:
 * Basic lighting
 * Make camera follow game objects
 
-I didn't try to make this project realistic in any way:
+I didn't try to make this project realistic in any way, so it does not try to be a simulation actually:
 Orbits would be difficult to model accurately, and we would see only a humongous sun if
 the proportions and distances between the different planets were close to reality.
 

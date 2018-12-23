@@ -11,11 +11,12 @@ ref: solar-system
 lang: es
 ---
 
-Este es uno de los primeros proyectos que llevé a cabo con Unity, una especie de simulación del sistema solar.
-
-Fue un ejercicio de los cursos de la Universidad del Estado de Michigan que tomé sobre Desarrollo de Juegos.
+Este es probablemente el primer proyecto que llevé a cabo con Unity, una especie de simulación del sistema solar (bueno, algo así!).
+En cualquier caso, muestra todos los planetas del sistema solar moviéndose por la pantalla.
 
 <!--more-->
+
+Fue un ejercicio de los cursos de la Universidad del Estado de Michigan que tomé sobre Desarrollo de Juegos.
 
 Durante este proyecto aprendí sobre algunos conceptos del motor de videojuegos, tales como:
 * Crear materiales
@@ -24,8 +25,8 @@ Durante este proyecto aprendí sobre algunos conceptos del motor de videojuegos,
 * Iluminación básica
 * Hacer que la cámara siga a los objetos de juego
 
-Con este proyecto no intentaba buscar realismo en ningún sentido:
-Sería difícil modelar las órbitas con precisión, y sólo podría verse el descomunal sol si
+Con este proyecto no intentaba buscar realismo en ningún sentido, y ciertamente no intenta ser una simulación:
+Sería difícil modelar las órbitas con precisión, y sólo podría verse un sol de enorme tamaño si
 las proporciones y distancias entre los diferentes planetas se acercasen a la realidad.
 
 Es posible jugar con una build WebGL de este proyecto [aquí](/assets/webgl/solar-system).
