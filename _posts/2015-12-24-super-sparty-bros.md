@@ -33,16 +33,8 @@ It is possible to play with a WebGL build of this project [here](/assets/webgl/s
 There are other builds available in the project's [repository](https://github.com/azarrias/super-sparty-bros).
 
 ## Controls
-This game can be played with several game controllers.
 
-### Xbox-type controller
-Move - Analog stick
-Jump - X
-
-### Keyboard
-Move - WASD / Arrow keys
-Jump - Space
-
-### Virtual joystick (mobile)
-Move - Virtual analog stick
-Jump - Tap right side of the screen
+Action | PC (mouse and keyboard) | PC (Xbox-type controller) | Mobile
+------ | ----------------------- | ------------------------- | ------
+Move   | WASD / Arrow keys       | Analog stick              | Virtual analog stick
+Jump   | Space bar               | X                         | Tap right side of the screen
