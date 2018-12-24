@@ -3,7 +3,7 @@ layout: post
 title: Super Sparty Bros
 excerpt_separator: <!--more-->
 categories:
-  - Projects
+  - Proyectos
 tags:
   - Unity
   - Video juegos
@@ -12,7 +12,8 @@ ref: super-sparty-bros
 lang: es
 ---
 
-Super Sparty Bros es una demo de juego de plataformas 2D, en la que hay que conseguir un objeto de "victoria" para poder pasarse un determinado nivel.
+Super Sparty Bros es una demo de juego de plataformas 2D, en la que hay que conseguir un objeto de "victoria" para poder pasarse cada nivel.
+Con ese objetivo, deberás esquivar a una serie de enemigos a los que podrás aturdir saltando encima suyo.
 
 <!--more-->
 
@@ -30,3 +31,18 @@ Durante este proyecto aprendí sobre algunos conceptos del motor de videojuegos,
 
 Puedes jugar con una build WebGL de este proyecto desde [aquí](/assets/webgl/super-sparty-bros).
 Hay otras builds disponibles en el [repositorio](https://github.com/azarrias/super-sparty-bros) del proyecto.
+
+## Controls
+Puedes jugar a este juego utilizando diferentes controles.
+
+### Mando tipo-Xbox
+Movimiento - Stick analógico
+Salto - X
+
+### Keyboard
+Movimiento - WASD / Teclas de dirección
+Salto - Barra espaciadora
+
+### Joystick virtual (móvil)
+Movimiento - Stick analógico virtual
+Salto - Pulsar el lado derecho de la pantalla

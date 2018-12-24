@@ -12,12 +12,13 @@ ref: super-sparty-bros
 lang: en
 ---
 
-Super Sparty Bros is a demo of a 2D platform game, where you need to collect a "victory" item in order to beat a certain level.
+Super Sparty Bros is a demo of a 2D platform game, on which you must collect a "victory" item in order to beat each level.
+For that, you must avoid a number of enemies that you will be able to stun, by jumping on top of them.
 
 <!--more-->
 
 I did this as an assignment for the Michigan State University courses on Game Development.
-This was the first time that I developed a cross-platform project for Unity. 
+This was the first time that I developed a cross-platform project with Unity.
 
 Through this project I learned about some of the game engine's topics, such as: 
 * Working with 2D sprites and physics
@@ -30,3 +31,18 @@ Through this project I learned about some of the game engine's topics, such as:
 
 It is possible to play with a WebGL build of this project [here](/assets/webgl/super-sparty-bros).
 There are other builds available in the project's [repository](https://github.com/azarrias/super-sparty-bros).
+
+## Controls
+This game can be played with several game controllers.
+
+### Xbox-type controller
+Move - Analog stick
+Jump - X
+
+### Keyboard
+Move - WASD / Arrow keys
+Jump - Space
+
+### Virtual joystick (mobile)
+Move - Virtual analog stick
+Jump - Tap right side of the screen
