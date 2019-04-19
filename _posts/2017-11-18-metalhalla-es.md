@@ -3,7 +3,7 @@ layout: post
 title: Metalhalla
 excerpt_separator: <!--more-->
 categories:
-  - Projects
+  - Proyectos
 tags:
   - Unity
   - Video juegos
@@ -14,11 +14,11 @@ lang: es
 
 Metalhalla es un juego de plataformas 2.5D tipo "metroidvania" de temática vikinga.
 
-<!--more-->
-
 Este juego lo hicimos un equipo de cuatro ingenieros como trabajo final del Master en Diseño y Creación de Videojuegos de la UPC School, en Barcelona.
 Mi rol en el proyecto fue el de programador, diseñador de sonido e ingeniero de sonido.
 El motor de video juegos que utilizamos fue Unity.
+
+<!--more-->
 
 Puedes descargar la última build para PC (Windows) [aquí](https://drive.google.com/open?id=0Bwhzd1ijHPU5a0h6TTI0VFBCdEk).
 
