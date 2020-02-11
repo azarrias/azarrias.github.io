@@ -1,0 +1,15 @@
+---
+layout: post
+title: Breakout
+excerpt_separator: <!--more-->
+categories:
+  - Proyectos
+tags:
+  - LÖVE2D
+  - Lua
+  - Video juegos
+ref: l2d-breakout
+lang: es
+---
+
+[Breakout](https://github.com/azarrias/l2d-breakout){:target="_blank"}

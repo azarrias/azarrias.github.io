@@ -3,7 +3,7 @@ layout: post
 title: Robochallenge
 excerpt_separator: <!--more-->
 categories:
-  - Projectos
+  - Proyectos
 tags:
   - Visión por computador
 ref: robochallenge
