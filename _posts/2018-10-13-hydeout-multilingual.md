@@ -10,7 +10,7 @@ ref: hydeout-multilingual
 lang: en
 ---
 
-[Hydeout](https://github.com/fongandrew/hydeout) is a Jekyll 3.x theme based on [Hyde](https://github.com/poole/hyde.
+[Hydeout](https://github.com/fongandrew/hydeout) is a Jekyll 3.x theme based on [Hyde](https://github.com/poole/hyde).
 As soon as I saw [how it looked like](https://fongandrew.github.io/hydeout/), I wanted to use it for this portfolio. So, I decided to modify it in order to support multilingual use.
 [This](https://github.com/azarrias/hydeout-multilingual) is its repository. And [this](https://azarrias.github.io/hydeout-multilingual) is how its template version looks like.
 
