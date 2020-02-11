@@ -6,6 +6,7 @@ categories:
   - Projects
 tags:
   - Unity
+  - C Sharp
   - Michigan State University
 ref: solar-system
 lang: en

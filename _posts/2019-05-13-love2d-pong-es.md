@@ -7,7 +7,7 @@ categories:
 tags:
   - LÖVE2D
   - Lua
-  - Video juegos
+  - Videojuegos
 ref: love2d-pong
 lang: es
 ---

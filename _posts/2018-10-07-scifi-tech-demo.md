@@ -6,7 +6,7 @@ categories:
   - Projects
 tags:
   - Unity
-  - C#
+  - C Sharp
   - Video games
 ref: scifi-tech-demo
 lang: en

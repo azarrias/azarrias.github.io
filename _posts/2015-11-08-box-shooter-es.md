@@ -6,7 +6,8 @@ categories:
   - Proyectos
 tags:
   - Unity
-  - Video juegos
+  - C Sharp
+  - Videojuegos
   - Universidad del Estado de Michigan
 ref: box-shooter
 lang: es

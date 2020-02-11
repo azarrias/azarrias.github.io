@@ -6,7 +6,8 @@ categories:
   - Proyectos
 tags:
   - Unity
-  - Video juegos
+  - C Sharp
+  - Videojuegos
   - UPC School
 ref: metalhalla
 lang: es

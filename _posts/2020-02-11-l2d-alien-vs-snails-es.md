@@ -7,7 +7,7 @@ categories:
 tags:
   - LÖVE2D
   - Lua
-  - Video juegos
+  - Videojuegos
 ref: l2d-alien-vs-snails
 lang: es
 ---

@@ -6,8 +6,8 @@ categories:
   - Proyectos
 tags:
   - Unity
-  - C#
-  - Video juegos
+  - C Sharp
+  - Videojuegos
 ref: galaxy-shooter
 lang: es
 ---

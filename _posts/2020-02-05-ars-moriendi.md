@@ -8,6 +8,7 @@ tags:
   - LÖVE2D
   - Lua
   - Video games
+  - Game jams
 ref: ars-moriendi
 lang: en
 ---

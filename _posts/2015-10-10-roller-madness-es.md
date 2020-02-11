@@ -6,7 +6,8 @@ categories:
   - Proyectos
 tags:
   - Unity
-  - Video juegos
+  - C Sharp
+  - Videojuegos
   - Universidad del Estado de Michigan
 ref: roller-madness
 lang: es
