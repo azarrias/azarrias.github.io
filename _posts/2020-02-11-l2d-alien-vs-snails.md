@@ -17,9 +17,9 @@ Levels are procedurally generated at the start.
 
 <!--more-->
 
-WebGL build playable [here](/l2d-alien-vs-snails){:target="_blank"}.
-[Repository](https://github.com/azarrias/l2d-alien-vs-snails){:target="_blank"}.
-[Latest release](https://github.com/azarrias/l2d-alien-vs-snails/releases/latest){:target="_blank"}.
+* WebGL build playable [here](/l2d-alien-vs-snails){:target="_blank"}.
+* [Repository](https://github.com/azarrias/l2d-alien-vs-snails){:target="_blank"}.
+* [Latest release](https://github.com/azarrias/l2d-alien-vs-snails/releases/latest){:target="_blank"}.
 
 ## Controls
 
