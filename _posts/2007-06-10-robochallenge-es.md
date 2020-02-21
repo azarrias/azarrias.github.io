@@ -22,5 +22,5 @@ Era mi primera experiencia profesional en el extranjero y ciertamente tuvo un gr
 Además de todo esto nuestra entidad, la Noordelijke Hogeschool Leeuwarden, ganó la competición.
 ¿Qué más se puede pedir?
 
-Aquí va un [pequeño reportaje televisivo](https://youtu.be/1cwcCpa2jis) acerca del evento.
+Aquí va un [pequeño reportaje televisivo](https://youtu.be/1cwcCpa2jis){:target="_blank"} acerca del evento.
 

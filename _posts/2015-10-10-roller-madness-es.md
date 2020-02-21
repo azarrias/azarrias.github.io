@@ -29,7 +29,7 @@ Durante este proyecto aprendí sobre algunos conceptos del motor de videojuegos,
 * Sistemas de partículas
 * Animación
 
-Puedes jugar con una build WebGL de este proyecto desde [aquí](/assets/webgl/roller-madness).
+Puedes jugar con una build WebGL de este proyecto desde [aquí](/assets/webgl/roller-madness){:target="_blank"}.
 
 ## Controles
 Utiliza las teclas de dirección para mover la bola.

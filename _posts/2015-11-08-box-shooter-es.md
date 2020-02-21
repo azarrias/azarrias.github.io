@@ -22,7 +22,7 @@ Hay tres tipos de cubos que se generan en base a su color:
 <!--more-->
 
 Este proyecto fue una entrega de los cursos de la Universidad del Estado de Michigan sobre Desarrollo de Videojuegos.
-Puedes jugar con una build WebGL de este proyecto desde [aquí](/assets/webgl/box-shooter).
+Puedes jugar con una build WebGL de este proyecto desde [aquí](/assets/webgl/box-shooter){:target="_blank"}.
 
 ## Controles
 Mueve el ratón para apuntar y utiliza el botón izquierdo para disparar.

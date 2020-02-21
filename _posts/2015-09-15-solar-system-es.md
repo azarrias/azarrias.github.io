@@ -30,7 +30,7 @@ Con este proyecto no intentaba buscar realismo en ningún sentido, y ciertamente
 Sería difícil modelar las órbitas con precisión, y sólo podría verse un sol de enorme tamaño si
 las proporciones y distancias entre los diferentes planetas se acercasen a la realidad.
 
-Es posible jugar con una build WebGL de este proyecto [aquí](/assets/webgl/solar-system).
+Es posible jugar con una build WebGL de este proyecto [aquí](/assets/webgl/solar-system){:target="_blank"}.
 
 ## Controles
 Haz click en cualquiera de los planetas, ya sea en la escena principal o en el mini-mapa, para que la cámara principal siga su trayectoria.

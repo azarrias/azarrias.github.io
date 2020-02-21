@@ -29,7 +29,7 @@ Through this project I learned about some of the game engine's topics, such as:
 * Particle systems
 * Animation
 
-It is possible to play with a WebGL build of this project [here](/assets/webgl/roller-madness).
+It is possible to play with a WebGL build of this project [here](/assets/webgl/roller-madness){:target="_blank"}.
 
 ## Controls
 This game can be played with the arrow keys.

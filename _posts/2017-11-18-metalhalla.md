@@ -21,7 +21,7 @@ The game engine that we used is Unity.
 
 <!--more-->
 
-You can download the latest build for PC (Windows) [here](https://drive.google.com/open?id=0Bwhzd1ijHPU5a0h6TTI0VFBCdEk).
+You can download the latest build for PC (Windows) [here](https://drive.google.com/open?id=0Bwhzd1ijHPU5a0h6TTI0VFBCdEk){:target="_blank"}.
 
 Here's a gameplay video:
 
@@ -41,4 +41,4 @@ And a making of:
   <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/vnKmSCjDNus?controls=0&amp;" frameborder="0" allowfullscreen></iframe>
 </div>
 
-If you want to know more about this project, you can go to its [website](https://metalhalla.carrd.co/).
+If you want to know more about this project, you can go to its [website](https://metalhalla.carrd.co/){:target="_blank"}.

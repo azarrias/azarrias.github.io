@@ -30,8 +30,8 @@ Through this project I learned about some of the game engine's topics, such as:
 * Parallax scrolling
 * Image effects (later on, I adapted them to use the new post processing stack)
 
-It is possible to play with a WebGL build of this project [here](/assets/webgl/super-sparty-bros).
-There are other builds available in the project's [repository](https://github.com/azarrias/super-sparty-bros).
+It is possible to play with a WebGL build of this project [here](/assets/webgl/super-sparty-bros){:target="_blank"}.
+There are other builds available in the project's [repository](https://github.com/azarrias/super-sparty-bros){:target="_blank"}.
 
 ## Controls
 

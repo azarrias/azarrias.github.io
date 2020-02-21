@@ -22,7 +22,7 @@ There are three types of spawning cubes in terms of their color:
 <!--more-->
 
 I did this as an assignment for the Michigan State University courses on Game Development.
-It is possible to play with a WebGL build of this project [here](/assets/webgl/box-shooter).
+It is possible to play with a WebGL build of this project [here](/assets/webgl/box-shooter){:target="_blank"}.
 
 ## Controls
 This game can be played by moving the mouse for aiming and clicking left mouse button for shooting.

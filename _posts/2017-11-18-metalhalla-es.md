@@ -21,7 +21,7 @@ El motor de video juegos que utilizamos fue Unity.
 
 <!--more-->
 
-Puedes descargar la última build para PC (Windows) [aquí](https://drive.google.com/open?id=0Bwhzd1ijHPU5a0h6TTI0VFBCdEk).
+Puedes descargar la última build para PC (Windows) [aquí](https://drive.google.com/open?id=0Bwhzd1ijHPU5a0h6TTI0VFBCdEk){:target="_blank"}.
 
 Aquí un video de gameplay:
 
@@ -41,4 +41,4 @@ Y un making of:
   <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/vnKmSCjDNus?controls=0&amp;" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Si quieres saber más sobre este proyecto, puedes ir a su [sitio web](https://metalhalla.carrd.co/).
+Si quieres saber más sobre este proyecto, puedes ir a su [sitio web](https://metalhalla.carrd.co/){:target="_blank"}.

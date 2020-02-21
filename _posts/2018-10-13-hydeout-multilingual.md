@@ -10,13 +10,13 @@ ref: hydeout-multilingual
 lang: en
 ---
 
-[Hydeout](https://github.com/fongandrew/hydeout) is a Jekyll 3.x theme based on [Hyde](https://github.com/poole/hyde).
-As soon as I saw [how it looked like](https://fongandrew.github.io/hydeout/), I wanted to use it for this portfolio. So, I decided to modify it in order to support multilingual use.
-[This](https://github.com/azarrias/hydeout-multilingual) is its repository. And [this](https://azarrias.github.io/hydeout-multilingual) is how its template version looks like.
+[Hydeout](https://github.com/fongandrew/hydeout){:target="_blank"} is a Jekyll 3.x theme based on [Hyde](https://github.com/poole/hyde){:target="_blank"}.
+As soon as I saw [how it looked like](https://fongandrew.github.io/hydeout/){:target="_blank"}, I wanted to use it for this portfolio. So, I decided to modify it in order to support multilingual use.
+[This](https://github.com/azarrias/hydeout-multilingual){:target="_blank"} is its repository. And [this](https://azarrias.github.io/hydeout-multilingual){:target="_blank"} is how its template version looks like.
 
 <!--more-->
 
-It's fairly easy to set up a blog using [Jekyll in combination with GitHub Pages](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/).
+It's fairly easy to set up a blog using [Jekyll in combination with GitHub Pages](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/){:target="_blank"}.
 I guess neither of them need an introduction, but Jekyll is an increasingly popular static site generator, while GitHub Pages is a great web hosting service offered by GitHub.
 
 All in all, you get:

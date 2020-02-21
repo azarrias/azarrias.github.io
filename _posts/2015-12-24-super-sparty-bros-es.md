@@ -30,8 +30,8 @@ Durante este proyecto aprendí sobre algunos conceptos del motor de videojuegos,
 * Parallax scrolling
 * Efectos de imagen (posteriormente los adapté para utilizar la nueva pila de post-procesamiento)
 
-Puedes jugar con una build WebGL de este proyecto desde [aquí](/assets/webgl/super-sparty-bros).
-Hay otras builds disponibles en el [repositorio](https://github.com/azarrias/super-sparty-bros) del proyecto.
+Puedes jugar con una build WebGL de este proyecto desde [aquí](/assets/webgl/super-sparty-bros){:target="_blank"}.
+Hay otras builds disponibles en el [repositorio](https://github.com/azarrias/super-sparty-bros){:target="_blank"} del proyecto.
 
 ## Controles
 

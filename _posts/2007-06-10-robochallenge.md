@@ -22,5 +22,5 @@ It was my first experience abroad and it certainly had a huge impact on my life.
 On top of that our entity, Noordelijke Hogeschool Leeuwarden, won the competition. 
 What more can you ask for?
 
-Here's a [short tv report](https://youtu.be/1cwcCpa2jis) about the event.
+Here's a [short tv report](https://youtu.be/1cwcCpa2jis){:target="_blank"} about the event.
 

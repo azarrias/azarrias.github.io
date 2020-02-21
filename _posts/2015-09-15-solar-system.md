@@ -30,7 +30,7 @@ I didn't try to make this project realistic in any way, so it does not try to be
 Orbits would be difficult to model accurately, and we would see only a humongous sun if
 the proportions and distances between the different planets were close to reality.
 
-It is possible to play with a WebGL build of this project [here](/assets/webgl/solar-system).
+It is possible to play with a WebGL build of this project [here](/assets/webgl/solar-system){:target="_blank"}.
 
 ## Controls
 You can click on any planet, on the main scene or on the minimap, for the camera to follow its trajectory.
