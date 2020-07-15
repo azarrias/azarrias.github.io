@@ -26,8 +26,7 @@ Cómo utilizar:
 * Todos estos cambios se ven reflejados sobre la marcha.
 * Es también posible hacer zoom utilizando la rueda del ratón.
 
-<img src="preview.gif"/>
-![preview](https://github.com/azarrias/sprite-sheet-splitter/blob/master/preview.gif "Vista previa")
+![preview](https://raw.githubusercontent.com/azarrias/sprite-sheet-splitter/master/preview.gif "Vista previa")
 
 * [Repository](https://github.com/azarrias/sprite-sheet-splitter){:target="_blank"}.
 * [Latest release](https://github.com/azarrias/sprite-sheet-splitter/releases/latest){:target="_blank"}.      

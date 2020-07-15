@@ -26,8 +26,7 @@ How to use:
 * All these changes will be reflected on the fly.
 * It's also possible to zoom in and out using the mouse wheel.
 
-<img src="preview.gif"/>
-![preview](https://github.com/azarrias/sprite-sheet-splitter/blob/master/preview.gif "Preview animated gif")
+![preview](https://raw.githubusercontent.com/azarrias/sprite-sheet-splitter/master/preview.gif "Preview animated gif")
 
 * [Repository](https://github.com/azarrias/sprite-sheet-splitter){:target="_blank"}.
 * [Latest release](https://github.com/azarrias/sprite-sheet-splitter/releases/latest){:target="_blank"}.
