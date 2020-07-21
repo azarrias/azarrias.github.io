@@ -12,7 +12,7 @@ ref: sprite-sheet-splitter
 lang: en
 ---
 
-Sprite Sheet Splitter is a extremely simple tool that can be used to quickly splitting sprite sheets and preview animations.
+Sprite Sheet Splitter is an extremely simple tool that can be used to quickly split sprite sheets and preview animations.
 It can be specially useful when dealing with irregular sprite sheets.
 
 <!--more-->
