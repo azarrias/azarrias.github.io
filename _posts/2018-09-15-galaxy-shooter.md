@@ -7,7 +7,7 @@ categories:
 tags:
   - Unity
   - C Sharp
-  - Video games
+  - Demos
 ref: galaxy-shooter
 lang: en
 ---
